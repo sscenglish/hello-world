@@ -1,1 +1,8 @@
+# vscode
 .vscode
+
+# java
+*.clss
+
+# c++
+*.bin
