@@ -3,5 +3,5 @@
 直接运行
 
 ``` bash
-go run hello-world.go
+rustc hello.rs
 ```
